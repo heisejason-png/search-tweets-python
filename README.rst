@@ -890,3 +890,4 @@ this) and commit the result:
 .. code:: bash
 
    bash make_readme.sh
+Created by Jason Scott Heise
